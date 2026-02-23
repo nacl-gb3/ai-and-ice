@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "8284d6a3-97bb-4966-b6c4-41896a279120",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-23T16:11:00.324Z",
   "created_by": "nacl-gb3",
   "title": "Principal fights agents ICE in front of School",
   "slug": "principal-fights-agents-ice-in-front-of-schoo",
-  "updated_at": "2026-02-23T16:11:00.324Z",
-  "updated_by": "nacl-gb3",
+  "updated_at": "2026-02-23T16:29:15.356Z",
+  "updated_by": "am232672-design",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "8284d6a3-97bb-4966-b6c4-41896a279120"
   }
