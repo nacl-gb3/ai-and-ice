@@ -63,6 +63,10 @@
         {
           "category": "_uncategorized_",
           "tag": "message"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
         }
       ],
       "uuid": "57ba87a2-d99d-4989-bee6-bc39b3fe49c8"
