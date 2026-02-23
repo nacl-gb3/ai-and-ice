@@ -34,19 +34,67 @@
     "authors": "Gary Bond, Zinnia Perez, Hana Isa, Alana Moczygemba",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "Hana-Isa",
-        "avatar_url": "https://avatars.githubusercontent.com/u/241634539?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Rhetorical Appeals",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Other Rhetorical Elements",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        }
+      ]
     },
     "created_at": "2026-02-11T15:55:27.585Z",
-    "updated_at": "2026-02-23T16:11:00.441Z",
+    "updated_at": "2026-02-23T16:12:33.959Z",
     "generate_pages_site": true
   },
   "annotations": {},
