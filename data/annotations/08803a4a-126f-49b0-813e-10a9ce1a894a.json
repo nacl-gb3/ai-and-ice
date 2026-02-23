@@ -1,5 +1,106 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the beginning of this video, the old woman claims that the ICE officers\nwould not \"get to scare folks on [her] block\" while she is around. (TODO: add citation) Here we\ncan infer that the old woman and the others on the block are all stakeholders\nin this situation. The audience would like know from current events that the\nICE officers plan to arrest those who were deemed to have been in the country\nillegally, so they could conclude that the freedom of the old woman and of\nothers who live on that block would be on the line. The old woman also presents\nherself as a heroic figure by claiming to be the force that prevents the ICE\nofficers from harming those who live on the block. This heroic presentation can\nbe seen as an appeal to ethos as the audience is more apt to see the woman in a\npositive light since she is trying to protect those who are vulnerable.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholder"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "c6152e4d-ab49-4d06-8104-0ba3e91b1c73"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this point in the video, the officers are responding to the old woman's claim\nthat they are acting unjustly by claiming that they are performing a \"lawful\"\ninvestigation. (TODO: add citation) This is an attempt at appealing logos since they are giving a\nparticular reason for their actions. Their job as officers is to investigate\nand handle violations of the law and they are claiming that their actions as\ndepicted in this video align with that job. The fact that the officers are\nclaiming to do their job also gives them a stake in this video as if they\nfail to do their job properly, it can be concluded that they stand the risk\nof losing it. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholder"
+        }
+      ],
+      "uuid": "11fcda25-7a3e-45e0-933f-362334ff00be"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this point in the video, the old woman being depicted questions the\nlawfulness of the ICE officers' actions in this video, noting that they \"don't\neven have a warrant with a judge's name on it\" (TODO: add citation). This\ninformation damages the credibility of the ICE officers since they seem to be\nacting outside the law while claiming that they are acting within the law. There\nis also an element of logos in her statement since the old woman is responding\nto the counterargument that presented by the officers that they are conducting\na \"lawful investigation\" (TODO: add citation) by giving an example of a law\nthat they are violating in their investigating, that being performing the\ninvestigation without a warrant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "dbc1d48f-a663-4e72-b3f6-691413baf8a6"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this interval, the old woman says that \"[she] knows her rights [and] so does\neveryone watching\" (TODO: add citation). In this statement, there is both ethos\nand pathos at play here. For ethos, the old woman claims to have knowledge of\nthe rights that the laws of the United States gives her, so the audience is\nmore inclined to trust her conclusion due to her being informed of the topic of\nthis situation. For pathos, the old woman's statement appeals to the audience\nin the way that she claims that they also are familiar with the topic at hand,\nwhich presents the evidence that she uses in her argument (officers requiring\na warrant to perform an investigation) as common knowledge. Therefore, the\naudience would be more likely to side with the woman in this video because of\nthat common knowledge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "3b474ca1-ffc6-4bc5-b496-c6a486f507cc"
+    }
+  ],
   "set": "Default",
   "event_id": "80d78a3f-a25e-4b52-8988-668355f1cd56",
   "source_id": "038ebad3-8926-41a6-8d3d-5e1bc6558697"
