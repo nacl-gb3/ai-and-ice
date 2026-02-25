@@ -108,6 +108,10 @@
         {
           "tag": "Pathos",
           "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
         }
       ],
       "uuid": "3b474ca1-ffc6-4bc5-b496-c6a486f507cc"
