@@ -50,6 +50,10 @@
         {
           "category": "Other Rhetorical Elements",
           "tag": "Stakeholder"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
         }
       ],
       "uuid": "11fcda25-7a3e-45e0-933f-362334ff00be"
