@@ -82,6 +82,35 @@
         }
       ],
       "uuid": "57ba87a2-d99d-4989-bee6-bc39b3fe49c8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a 'news reporter' speaking in the background of this video. This reporter is describing the scene that is happening on the street. By having a news reporter, people are more likely to believe what is going on in this video as they are often trusted to give out correct information. It also allows for the context to be better understood, so that anyone who stumbles upon this video can get the version of the story that this creator made up. This can create many issues for actual reporters and people who watch the news. By including a 'reporter', the creator has made this video seem like a trustworthy source and that can harm those who watch it or are included in it. The tone is also set up by using this 'reporters' voice, as it makes it seem like this is a real and serious event happening. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "Other Rhetorical Elements",
+          "tag": "Stakeholder"
+        }
+      ],
+      "uuid": "d408eb8e-a208-45b3-af11-92478e511215"
     }
   ],
   "set": "Default",
