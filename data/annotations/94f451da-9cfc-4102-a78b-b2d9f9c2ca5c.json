@@ -8,7 +8,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The principal hitting the ICE agent immediately evokes shock, serving as a hook that keeps the audience watching. "
+              "text": "The principal hitting the ICE agent immediately evokes shock, serving as a hook that keeps the audience watching. Similar to many other sensational news clips or videos created to cause social outrage, this short begins with a high level of tension brewing between the two parties involved: dutiful ICE agents and the determined public school. The principal is portrayed as the leader, protector, and hero in the video; the communicator aims to elicit a moral connection with the audience. The ICE agents, on the other hand, are shown as weak, apathetic, and unfocused. They are shown rushing into the entrance, seemingly without a purpose for what to do with the principal or the students, when the principal recklessly decides to hit one of the agents."
             }
           ]
         }
@@ -17,6 +17,10 @@
         {
           "tag": "Pathos",
           "category": "Rhetorical Appeals"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "tag": "Communicator"
         }
       ],
       "uuid": "e4a15206-2099-47ec-a514-0e0e51da56ee"
