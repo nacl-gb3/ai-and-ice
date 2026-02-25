@@ -1,1 +1,86 @@
-{"annotations":[{"start_time":2,"end_time":4,"annotation":[{"type":"paragraph","children":[{"text":"This video shows a group of five people who are wearing colorful coats chasing two ice agents across a snowy road. The ice agents and the 'drag queens' are running with no trouble, not slipping on the road at all even though there is a large amount of snow on the sidewalks. One ice agent breaks off from the other, runs over the top of the car, and then lands on the road with no difficulty at all. This section is a show of ethos as it is displaying the 'drag queens' chasing ice agents with no other context beforehand. This is also a show of the creators message, that ice agents are being chased out by a "}]}],"tags":[{"tag":"Message","category":"Rhetorical Triangle"},{"category":"_uncategorized_","tag":"Stakeholder"},{"tag":"Ethos","category":"Rhetorical Appeals"}],"uuid":"61a4f23e-e41e-4d48-95a0-c6b0ef1232e0"},{"start_time":6,"end_time":9,"annotation":[{"type":"paragraph","children":[{"text":"The people are running after the ice agents and the announcer has stated that  there are four individual chasing after the agents, showing that the software may not recognize the amount of people in the group. "}]}],"tags":[{"tag":"Ethos","category":"Rhetorical Appeals"}],"uuid":"c43d5eda-f99a-4e49-8507-2dfdf58169c3"},{"start_time":9,"end_time":10,"annotation":[{"type":"paragraph","children":[{"text":"It is stated that the people chasing the agents are 'drag queens' even though this may not be relevant to the situation. This could create backlash or attacks on people who have not actually contrubuted to these actions."}]}],"tags":[{"tag":"Tone","category":"Other Rhetorical Elements"},{"tag":"Message","category":"Rhetorical Triangle"},{"category":"Rhetorical Triangle","tag":"Communicator"}],"uuid":"57ba87a2-d99d-4989-bee6-bc39b3fe49c8"}],"set":"Default","event_id":"2b5ced3b-af54-4681-a939-1ec06887d6f4","source_id":"5351a3a1-f033-4f01-9ff4-b6f87ffee8e4"}
+{
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This video shows a group of five people who are wearing colorful coats chasing two ice agents across a snowy road. The ice agents and the 'drag queens' are running with no trouble, not slipping on the road at all even though there is a large amount of snow on the sidewalks. One ice agent breaks off from the other, runs over the top of the car, and then lands on the road with no difficulty at all. This section is a show of ethos as it is displaying the 'drag queens' chasing ice agents with no other context beforehand. This is also a show of the creators message, that ice agents are being chased out by a well known group of people and the agents are not welcomed in this area. Lastly, it shows major stakeholders, the 'drag queens'. Drag queens are a huge part of many political and social debates, if this video were seen and shared by the wrong people, the community could get backlash for actions that they had no participation in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholder"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "61a4f23e-e41e-4d48-95a0-c6b0ef1232e0"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people are running after the ice agents and the announcer has stated that  there are four individual chasing after the agents, showing that the software may not recognize the amount of people in the group. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "c43d5eda-f99a-4e49-8507-2dfdf58169c3"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is stated that the people chasing the agents are 'drag queens' even though this may not be relevant to the situation. This could create backlash or attacks on people who have not actually contrubuted to these actions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "tag": "Communicator"
+        }
+      ],
+      "uuid": "57ba87a2-d99d-4989-bee6-bc39b3fe49c8"
+    }
+  ],
+  "set": "Default",
+  "event_id": "2b5ced3b-af54-4681-a939-1ec06887d6f4",
+  "source_id": "5351a3a1-f033-4f01-9ff4-b6f87ffee8e4"
+}
