@@ -1,1 +1,132 @@
-{"annotations":[{"start_time":0,"end_time":2,"annotation":[{"type":"paragraph","children":[{"text":"The principal hitting the ICE agent immediately evokes shock, serving as a hook that keeps the audience watching. "}]}],"tags":[{"tag":"Pathos","category":"Rhetorical Appeals"}],"uuid":"e4a15206-2099-47ec-a514-0e0e51da56ee"},{"start_time":2,"end_time":7,"annotation":[{"type":"paragraph","children":[{"text":"Principal is yelling at the ICE agents to go away. He's defending his students, showing how far he is willing to go for them. This is representative of other teachers that are standing with their students. "}]}],"tags":[{"tag":"Ethos","category":"Rhetorical Appeals"}],"uuid":"8b610aa9-2624-45dc-b1f9-42a9fe982695"},{"start_time":7,"end_time":12,"annotation":[{"type":"paragraph","children":[{"text":"This portion shows the children in the background yelling and seemingly cheering on the principal. The purpose for this segment is to try to convince the audience that this is a real school environment, with children being affected by the issue and situation."}]}],"tags":[{"tag":"Logos","category":"Rhetorical Appeals"}],"uuid":"adab461e-a897-4194-b911-1b55425d5de8"},{"start_time":12,"end_time":15,"annotation":[{"type":"paragraph","children":[{"text":"Principal is yelling \"this is a safe place, you hear me!\" This shows the audiance empathy of the principal and how much 'he' 'cares' for his students. "}]}],"tags":[{"tag":"Ethos","category":"Rhetorical Appeals"},{"tag":"Tone","category":"Other Rhetorical Elements"}],"uuid":"29452dcf-f343-4a93-ae40-32d0f3644f9a"},{"start_time":13,"end_time":15,"annotation":[{"type":"paragraph","children":[{"text":"The video shows that one of the children is wearing a hoodie that reads \"ICE.\" This is inconsistent with the purpose and message of the clip, as the student is supposedly showing support for the political entity. Rhetorically, the video loses ethos when subtle inconsistencies like this occur, thereby weakening the audience's trust in the account, video, and content. If the audience catches the mistake, they are likely not be persuaded by the video as they may have realize that it is AI-generated, or possibly staged, thinking it is a satirical or ironic representation."}]}],"tags":[{"tag":"Ethos","category":"Rhetorical Appeals"},{"tag":"Audience","category":"Rhetorical Triangle"}],"uuid":"96ab29ba-ba38-458a-84ea-251df8bb88c9"}],"set":"Default","event_id":"8284d6a3-97bb-4966-b6c4-41896a279120","source_id":"a1c04a06-a520-492f-9d43-9860f9e4bfa9"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The principal hitting the ICE agent immediately evokes shock, serving as a hook that keeps the audience watching. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "e4a15206-2099-47ec-a514-0e0e51da56ee"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Principal is yelling at the ICE agents to go away. He's defending his students, showing how far he is willing to go for them. This is representative of other teachers that are standing with their students. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "8b610aa9-2624-45dc-b1f9-42a9fe982695"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This portion shows the children in the background yelling and seemingly cheering on the principal. The purpose for this segment is to try to convince the audience that this is a real school environment, with children being affected by the issue and situation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "adab461e-a897-4194-b911-1b55425d5de8"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Principal is yelling \"this is a safe place, you hear me!\" This shows the audiance empathy of the principal and how much 'he' 'cares' for his students. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        }
+      ],
+      "uuid": "29452dcf-f343-4a93-ae40-32d0f3644f9a"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video shows that one of the children is wearing a hoodie that reads \"ICE.\" This is inconsistent with the purpose and message of the clip, as the student is supposedly showing support for the political entity. Rhetorically, the video loses ethos when subtle inconsistencies like this occur, thereby weakening the audience's trust in the account, video, and content. If the audience catches the mistake, they are likely not to be persuaded by the video as they may have realized that it is AI-generated, or possibly staged, thinking it is a satirical or ironic representation. The fact that the child’s clothing appears near the end of the video lowers the chances of the audience pinpointing this mistake, which may have been an intentional measure taken by the communicator of the video."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "tag": "Communicator"
+        }
+      ],
+      "uuid": "96ab29ba-ba38-458a-84ea-251df8bb88c9"
+    }
+  ],
+  "set": "Default",
+  "event_id": "8284d6a3-97bb-4966-b6c4-41896a279120",
+  "source_id": "a1c04a06-a520-492f-9d43-9860f9e4bfa9"
+}
