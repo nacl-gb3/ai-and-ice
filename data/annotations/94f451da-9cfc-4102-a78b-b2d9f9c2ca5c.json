@@ -87,6 +87,31 @@
         }
       ],
       "uuid": "29452dcf-f343-4a93-ae40-32d0f3644f9a"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video shows that one of the children is wearing a hoodie that reads \"ICE.\" This is inconsistent with the purpose and message of the clip, as the student is supposedly showing support for the political entity. Rhetorically, the video loses ethos when subtle inconsistencies like this occur, thereby weakening the audience's trust in the account, video, and content. If the audience catches the mistake, they are likely not be persuaded by the video as they may have realize that it is AI-generated, or possibly staged, thinking it is a satirical or ironic representation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "96ab29ba-ba38-458a-84ea-251df8bb88c9"
     }
   ],
   "set": "Default",
