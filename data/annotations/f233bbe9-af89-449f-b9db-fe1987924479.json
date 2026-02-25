@@ -65,16 +65,20 @@
       ],
       "tags": [
         {
-          "tag": "Tone",
-          "category": "Other Rhetorical Elements"
-        },
-        {
           "tag": "Message",
           "category": "Rhetorical Triangle"
         },
         {
           "category": "Rhetorical Triangle",
           "tag": "Communicator"
+        },
+        {
+          "category": "Other Rhetorical Elements",
+          "tag": "Stakeholder"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
         }
       ],
       "uuid": "57ba87a2-d99d-4989-bee6-bc39b3fe49c8"
