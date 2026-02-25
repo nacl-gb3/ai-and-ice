@@ -58,7 +58,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "This portion shows the children in the background yelling and seemingly cheering on the principal. The purpose for this segment is to try to convince the audience that this is a real school environment, with children being affected by the issue and situation."
+              "text": "This portion shows the children in the background yelling and seemingly cheering on the principal, adding to the chaotic atmosphere of the situation. The purpose for this segment is to try to convince the audience that this is a real school environment, with children directly being affected by the issue at hand. The children seem to be of different age ranges and are exhibiting varying levels of engagement with the contention between the principal and the ICE agents; some students are even yelling directly at the ICE agents, supporting the principal’s efforts. The purpose of the students’ placement outside of the school building is to emphasize the level of disruption the ICE agents have caused this small, seemingly impoverished school."
             }
           ]
         }
@@ -67,6 +67,10 @@
         {
           "tag": "Logos",
           "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
         }
       ],
       "uuid": "adab461e-a897-4194-b911-1b55425d5de8"
