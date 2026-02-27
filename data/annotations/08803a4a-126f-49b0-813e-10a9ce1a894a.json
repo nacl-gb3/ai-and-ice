@@ -504,6 +504,139 @@
         }
       ],
       "uuid": "1fd01b9b-0e6a-4d6f-a2f0-5ce871592030"
+    },
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This video appears to take place outside some apartment complex, presumably"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the home of the elderly woman depicted in the video. The choice of this setting"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "likely is meant to hit closer to home for the audience, many of whom may live"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in apartments that are similar enough to the one depicted here. However, this"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "building has numerous oddities that contribute to a case for this video being"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "synthetic. The most notable oddity are the stair rails on the side melding"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "into each other in an impossible manner. One rail extends parallel to the"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "rail closest to the camera, while the other extends perpendicular to that"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "rail. Furthermore, what seem to be windows on the side of the building are"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "inconsistently sized between the lowest floor and higher floors. This video"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "being perceived as fake could result potentially result in the opposite effect"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that the communicator wished to achieve due to the fact that the event depicted"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "was synthetic. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "a96fec39-6a23-479d-923b-27c16046fb27"
     }
   ],
   "set": "Default",
