@@ -136,6 +136,31 @@
         }
       ],
       "uuid": "96ab29ba-ba38-458a-84ea-251df8bb88c9"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Near the end of the video, it is seen that the principal seemingly “steps through” the solid metal divider in the middle of the stair steps. Additionally, the sign above the school entrance reads a series of random letters and numbers, which is atypical of a school’s foundation, regardless of class, level, and location. This is a clear error from part of the AI’s generation, as it fails to capture the full context behind a school’s structure and how physics works in real life. This may also lead to the audience doubting the video’s authenticity, primarily because the video lacks a clear line of logos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "1d598d94-0cbe-4733-92c7-5abc239037a4"
     }
   ],
   "set": "Default",
