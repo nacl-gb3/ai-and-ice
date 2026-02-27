@@ -10,12 +10,22 @@
   },
   "auto_generate_web_page": true,
   "citation": "https://www.facebook.com/reel/899763405863499",
-  "label": "Principal fights agents ICE in front of School",
+  "label": "Principal fights ICE agents in front of School",
   "created_at": "2026-02-23T16:11:00.179Z",
   "created_by": "nacl-gb3",
-  "updated_at": "2026-02-24T14:26:08.667Z",
-  "updated_by": "trentwintermeier",
+  "updated_at": "2026-02-27T21:31:33.051Z",
+  "updated_by": "Hana-Isa",
   "av_file_order": [
     "a1c04a06-a520-492f-9d43-9860f9e4bfa9"
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Artificially generated videos have taken the internet by storm, often revolving around sensationalizing content meant to ensnare consumers who lack the skills and knowledge needed to identify them. The massive volume of this form of digital media does not exist just by chance; as researchers Loni Hagen et al. emphasize, the abundance of AI-generated content on social media stems from its heavily persuasive nature and its ability to be distributed at an “unprecedented scale” (Hagen et al. 1231-1234). Oftentimes, however, AI-generated content is blatant and serves another, more obscure purpose: distribute the material to satisfy the increasingly insatiable demand for rapid entertainment. In this short clip of a school principal defending his students against ICE agents who show up at the school’s doorsteps, content creator Mike Wayne exemplifies both purposes. An incident in January of 2026 highlights the implications of content such as this. Local police of the South Bay/San Jose community had to dispatch officers to calm the people who were anxious about the presence of ICE agents in their neighborhoods. However, it soon came to light that the photos distributed of these “ICE agents” were artificially generated, intending to be a prank. As highlighted by the news article relating this story, “‘Spreading false information causes real fear and harm in our community,’ the Rapid Response Network wrote after dispatching volunteers to check the block” (Ng). "
+        }
+      ]
+    }
   ]
 }
