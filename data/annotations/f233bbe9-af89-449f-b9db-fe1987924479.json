@@ -119,6 +119,31 @@
         }
       ],
       "uuid": "d408eb8e-a208-45b3-af11-92478e511215"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this segment, the 'reporter' states, \"They are ICE agents.\". This statement helps to specify that these are a specific agency being targeted and not just an overall representation of all law enforcement agencies. This allows the person who posted this video to get more attention. Regardless of the harm that a video like this may cause, as news of ICE and Drag Queens, are constantly under the microscope. According to a Wired article, \"Currying political capital online involves demonstrating that the opinions you hold are widely held while also engineering viral content that aligns with your views...\"(Parham), this shows that even though the person who posts this may get negative feedback, those who are the subject of these videos may face real consequences. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "category": "Other Rhetorical Elements",
+          "tag": "Stakeholder"
+        }
+      ],
+      "uuid": "04fde386-922a-410d-b205-9c9230fb2722"
     }
   ],
   "set": "Default",
