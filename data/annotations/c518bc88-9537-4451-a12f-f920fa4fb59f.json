@@ -1,43 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 2,
-      "end_time": 5,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The server throws food at the ICE agents, transforming a cultural symbol of hospitality into a tool of protest. This physical act intensifies the emotional appeal and visually dramatizes rejection. The agents' continued shock reinforces their portrayal as unprepared for public resistance. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Pathos",
-          "category": "Rhetorical Appeals"
-        },
-        {
-          "tag": "Message",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "tag": "Tone",
-          "category": "Other Rhetorical Elements"
-        },
-        {
-          "tag": "Purpose",
-          "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "tag": "Exigence",
-          "category": "Expanded Rhetorical Triangle"
-        }
-      ],
-      "uuid": "a8e06f44-e8e4-45b7-966c-56419d721448"
-    },
-    {
       "start_time": 5,
       "end_time": 10,
       "annotation": [
