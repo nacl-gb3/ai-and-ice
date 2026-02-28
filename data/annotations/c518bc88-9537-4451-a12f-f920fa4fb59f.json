@@ -1,5 +1,227 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This AI generated video shows a server and three to four ICE agents seated at a Mexican/Spanish restaurant. The server is visibly upset and begins to yell at the ICE agents about them disrupting the normalcy of so many people’s lives. She is likely especially upset because the culture they are enjoying is one that is shared by people that they predominantly affect. In the background of the video, a generally calm restaurant can be seen and the other customers hardly react. This is likely because everyone in this video is AI generated and thus, would not have a ‘normal’ reaction to someone shouting. The agents' semi-shocked expressions establish a sharp tonal contrast between authority and public backlash. This frames the encounter as conflict rather than casual interaction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "b3f85570-3624-4e90-91af-5ac182c65bd9"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As she continues to yell, the server throws food (orange juice with strange AI generated physics and a full plate of food) at the ICE agents, transforming a cultural symbol of hospitality into a tool of protest. The ICE agents seem somewhat fed up with the backlash which, if they were real, would likely be coming from a lot of people they interact with. This physical act intensifies the emotional appeal and visually dramatizes rejection. The agents' continued shock reinforces their portrayal as unprepared for public resistance. The other people in the restaurant continue to mildly react to the scene playing out in front of them. There are two ladies in matching outfits in the background that are the only ones that are visibly frightened. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c18b993e-bdf2-4e80-8928-622c1e7dda8b"
+    },
+    {
+      "start_time": 4,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the ICE agents briefly shouts \"No!\" in response, but their reaction lacks physical realism. The neon orange juice does not visibly stain their clothes, and they make no effort to clean themselves. This detail exposes the constructed nature of the video and destabilizes its ethos. The artificialty raises questions about credibility, that is, the scenario feels emotionally real, yet physically implausible. Their underwhelming response may suggest emotional fatigue, implying that backlash is common for them, it may simply reflect incomplete AI prompting. Either way, the lack of realistic reaction contributes to the rhetorical message. ICE agents appear to attempt normalcy even in moments of confrontation. The artificial realism highlights how AI can simulate political conflict while subtly revealing its own fabrication.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "tag": "Communicator"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "7d1c5a85-fbca-4053-b4fe-f29affd0bb06"
+    },
+    {
+      "start_time": 360,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The agents stand up from their seats, possibly to assert dominance over the server. This shift in posture visually reinforces instiutional authority. By physically elevating themselves, they attempt to reclaim control of the space. However, the gesture lacks escalation; no one intervenes, and the confrontation remains contained. The background diners continue reacting mildly, which feels unnatural and underscores the AI-generated environment. This moment reinforces the theme of abnormality. The agents attempt to behave as though this is a routine inconvenience, yet their presence has already disrupted the social atmosphere. The act of standing symbolizes authority reasserting itself, even when challenged within a culturally significant space."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "0985049a-cf0a-41e6-99b7-becf028f6e95"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The restaurant patrons remain largely passive observers. Two women in matching outfits appear mildly frightened, but the overall reaction is subdued. In a real-life scenario, such an outburst would likely produce stronger reactions, management involvement, or visible chaos. The muted background response signals the artificial construction of the scene and weakens its realism. This detail complicates the video’s persuasive strategy. While the conflict is emotionally intense, the environment lacks authentic social dynamics. The AI simulation attempts to replicate everyday life but cannot fully reproduce spontaneous human behavior. This reinforces how the video uses artificial realism to dramatize political tension while subtly exposing the limits of AI-generated storytelling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "tag": "Communicator"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "5d62f660-a82d-4a7d-95f8-81d761193bde"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The server demands that the ICE agents leave, escalating the confrontation from symbolic protest to attempted expulsion. The restaurant, typically a site of cultural enjoyment and communal gathering, becomes a space of resistance. This final moment reinforces the central group theme: ICE agents attempt to move through everyday life as though everything is normal, yet their presence renders that normalcy unstable for others. Even though the video is AI-generated and depicts a fabricated scenario, the emotional reaction it seeks to provoke is real. The artificial construction allows the creator to stage political irony without documenting an actual event. This blurring of fiction and realism amplifies persuasion while complicating trust, authorship, and ethical representation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "b7648c9b-b7ce-421f-9f21-c38ad753e875"
+    }
+  ],
   "set": "Default",
   "event_id": "7baac893-5a21-4afb-b48d-ffd832187e87",
   "source_id": "13aa6caa-e145-4b62-b173-c01a953c6c75"
