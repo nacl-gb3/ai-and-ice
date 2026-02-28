@@ -40,12 +40,28 @@
               "text": "The people are running after the ice agents and the announcer has stated that  there are four individual chasing after the agents, showing that the software may not recognize the amount of people in the group. "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This segment of the video states, \"They are being pursued now by four people in bright winter attire...\". By stating that there are only four individuals, it ruins the credibility that they had at the beginning. There are clearly five distinct people in coats, but because the people in the generated video seems to cross paths it cannot distinguish all people. \"Without proper oversight, AI systems may unintentionally reinforce biases, making it essential to implement ethical guidelines and transparency measures to promote fairness and equality.\"(Guirguis) By allowing these videos that are spreading misinformation, people are able to perpetuate harmful stereotypes and make it more difficult for certain communities to get fair treatment.  "
+            }
+          ]
         }
       ],
       "tags": [
         {
           "tag": "Ethos",
           "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "category": "Other Rhetorical Elements",
+          "tag": "Stakeholder"
         }
       ],
       "uuid": "c43d5eda-f99a-4e49-8507-2dfdf58169c3"
