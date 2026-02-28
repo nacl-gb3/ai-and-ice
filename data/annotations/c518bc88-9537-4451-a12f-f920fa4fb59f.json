@@ -1,43 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 2,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This AI generated video shows a server and three to four ICE agents seated at a Mexican/Spanish restaurant. The server is visibly upset and begins to yell at the ICE agents about them disrupting the normalcy of so many people’s lives. She is likely especially upset because the culture they are enjoying is one that is shared by people that they predominantly affect. In the background of the video, a generally calm restaurant can be seen and the other customers hardly react. This is likely because everyone in this video is AI generated and thus, would not have a ‘normal’ reaction to someone shouting. The agents' semi-shocked expressions establish a sharp tonal contrast between authority and public backlash. This frames the encounter as conflict rather than casual interaction."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Pathos",
-          "category": "Rhetorical Appeals"
-        },
-        {
-          "tag": "Tone",
-          "category": "Other Rhetorical Elements"
-        },
-        {
-          "tag": "Message",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "tag": "Audience",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "tag": "Exigence",
-          "category": "Expanded Rhetorical Triangle"
-        }
-      ],
-      "uuid": "970f52b6-9ae9-4d02-a6bb-2e6348a90d80"
-    },
-    {
       "start_time": 2,
       "end_time": 4,
       "annotation": [
