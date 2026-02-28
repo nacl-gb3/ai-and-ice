@@ -1,47 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 4,
-      "end_time": 360,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "One of the ICE agents briefly shouts \"No!\" in response, but their reaction lacks physical realism. The neon orange juice does not visibly stain their clothes, and they make no effort to clean themselves. This detail exposes the constructed nature of the video and destabilizes its ethos. The artificialty raises questions about credibility, that is, the scenario feels emotionally real, yet physically implausible. Their underwhelming response may suggest emotional fatigue, implying that backlash is common for them, it may simply reflect incomplete AI prompting. Either way, the lack of realistic reaction contributes to the rhetorical message. ICE agents appear to attempt normalcy even in moments of confrontation. The artificial realism highlights how AI can simulate political conflict while subtly revealing its own fabrication.\n"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ethos",
-          "category": "Rhetorical Appeals"
-        },
-        {
-          "tag": "Tone",
-          "category": "Other Rhetorical Elements"
-        },
-        {
-          "tag": "Message",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "category": "Rhetorical Triangle",
-          "tag": "Communicator"
-        },
-        {
-          "tag": "Purpose",
-          "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "tag": "Exigence",
-          "category": "Expanded Rhetorical Triangle"
-        }
-      ],
-      "uuid": "f0f27340-6b0e-48ac-8301-38b969597e98"
-    },
-    {
       "start_time": 360,
       "end_time": 7,
       "annotation": [
