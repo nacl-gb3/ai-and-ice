@@ -1,47 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 360,
-      "end_time": 7,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The agents stand up from their seats, possibly to assert dominance over the server. This shift in posture visually reinforces instiutional authority. By physically elevating themselves, they attempt to reclaim control of the space. However, the gesture lacks escalation; no one intervenes, and the confrontation remains contained. The background diners continue reacting mildly, which feels unnatural and underscores the AI-generated environment. This moment reinforces the theme of abnormality. The agents attempt to behave as though this is a routine inconvenience, yet their presence has already disrupted the social atmosphere. The act of standing symbolizes authority reasserting itself, even when challenged within a culturally significant space."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Message",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "tag": "Tone",
-          "category": "Other Rhetorical Elements"
-        },
-        {
-          "tag": "Pathos",
-          "category": "Rhetorical Appeals"
-        },
-        {
-          "tag": "Purpose",
-          "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "tag": "Exigence",
-          "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "tag": "Audience",
-          "category": "Rhetorical Triangle"
-        }
-      ],
-      "uuid": "e8dd7492-40e5-467e-a16c-07330ae7d97c"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "7baac893-5a21-4afb-b48d-ffd832187e87",
   "source_id": "13aa6caa-e145-4b62-b173-c01a953c6c75"
