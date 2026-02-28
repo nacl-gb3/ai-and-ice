@@ -7,6 +7,40 @@
           "type": "list-item",
           "children": [
             {
+              "text": "Carcamo, Cindy, et al. "
+            },
+            {
+              "text": "“‘I’m Scared to Death to Leave My House’: Immigrants Are Disappearing from the Streets – Can US Cities Survive?”",
+              "italic": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "The Guardian",
+              "italic": true
+            },
+            {
+              "text": ", 23 June 2025, "
+            },
+            {
+              "type": "link",
+              "url": "http://www.theguardian.com/us-news/2025/jun/23/immigrants-disappearing-us-cities",
+              "children": [
+                {
+                  "text": "www.theguardian.com/us-news/2025/jun/23/immigrants-disappearing-us-cities"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
               "text": "Ng, Tony. “AI “ICE Agents” Spook San Jose Block before Locals Call out Hoax.” Hoodline, 22 Jan. 2026, hoodline.com/2026/01/ai-ice-agents-spook-san-jose-block-before-locals-call-out-hoax/. Accessed 27 Feb. 2026."
             }
           ]
@@ -81,6 +115,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-27T22:23:05.023Z",
   "created_by": "Hana-Isa",
-  "updated_at": "2026-02-28T03:48:06.881Z",
-  "updated_by": "am232672-design"
+  "updated_at": "2026-02-28T04:23:44.248Z",
+  "updated_by": "zinniaistired"
 }
