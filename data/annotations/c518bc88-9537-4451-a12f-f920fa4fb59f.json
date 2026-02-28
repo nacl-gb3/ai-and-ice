@@ -40,51 +40,6 @@
         }
       ],
       "uuid": "e8dd7492-40e5-467e-a16c-07330ae7d97c"
-    },
-    {
-      "start_time": 8,
-      "end_time": 10,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The server demands that the ICE agents leave, escalating the confrontation from symbolic protest to attempted expulsion. The restaurant, typically a site of cultural enjoyment and communal gathering, becomes a space of resistance. This final moment reinforces the central group theme: ICE agents attempt to move through everyday life as though everything is normal, yet their presence renders that normalcy unstable for others. Even though the video is AI-generated and depicts a fabricated scenario, the emotional reaction it seeks to provoke is real. The artificial construction allows the creator to stage political irony without documenting an actual event. This blurring of fiction and realism amplifies persuasion while complicating trust, authorship, and ethical representation."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Message",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "tag": "Purpose",
-          "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "tag": "Pathos",
-          "category": "Rhetorical Appeals"
-        },
-        {
-          "tag": "Audience",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "tag": "Exigence",
-          "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "tag": "Tone",
-          "category": "Other Rhetorical Elements"
-        },
-        {
-          "tag": "Ethos",
-          "category": "Rhetorical Appeals"
-        }
-      ],
-      "uuid": "344fecdc-aa2a-45be-93c7-20b90bac21ce"
     }
   ],
   "set": "Default",
