@@ -1,47 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 5,
-      "end_time": 10,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The server demands that the ICE agents leave, escalating the confrontration from symbolic protest to outright expulsion. The restaurant, typicallt a space of comfort and cultural enjoyment, becomes a site of resistance. This momen reinforces the theme that ICE agents attempt to operate as if everything is normal, yet their presence disrupts everyday  life for others. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Message",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "tag": "Purpose",
-          "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "tag": "Pathos",
-          "category": "Rhetorical Appeals"
-        },
-        {
-          "tag": "Audience",
-          "category": "Rhetorical Triangle"
-        },
-        {
-          "tag": "Exigence",
-          "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "tag": "Tone",
-          "category": "Other Rhetorical Elements"
-        }
-      ],
-      "uuid": "63ae6920-1f60-45c4-ad9f-dc1ab1b9d6eb"
-    },
-    {
       "start_time": 0,
       "end_time": 2,
       "annotation": [
