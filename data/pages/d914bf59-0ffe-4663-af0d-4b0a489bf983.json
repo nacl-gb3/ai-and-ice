@@ -103,6 +103,21 @@
               "text": "“We’re Coming out against the Ice Secure Communities Program.” One Colorado, 22 Nov. 2015, www.one-colorado.org/latest/were-coming-out-against-the-ice-secure-communities-program. "
             }
           ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Wayne, Mike. “Old Lady Resists Ice: Mike Wayne.” "
+            },
+            {
+              "text": "Facebook",
+              "italic": true
+            },
+            {
+              "text": ", https://www.facebook.com/reel/3097825947063484/. Accessed 28 Feb. 2026. "
+            }
+          ]
         }
       ]
     }
@@ -115,6 +130,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-27T22:23:05.023Z",
   "created_by": "Hana-Isa",
-  "updated_at": "2026-02-28T04:23:44.248Z",
-  "updated_by": "zinniaistired"
+  "updated_at": "2026-02-28T04:35:47.268Z",
+  "updated_by": "nacl-gb3"
 }
