@@ -1,14 +1,6 @@
 {
   "content": [
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "event",
       "uuid": "2b5ced3b-af54-4681-a939-1ec06887d6f4",
       "includes": [
@@ -16,56 +8,6 @@
         "annotations",
         "description"
       ],
-      "children": [
-        {
-          "text": "Guirguis, Jems. “Immigrants vs. Artificial Intelligence: The human cost of AI in asylum decisions.” Minnesota Journal of Law &amp; Inequality, 2026, p. 7, https://doi.org/10.24926/25730037.730. "
-        }
-      ]
-    },
-    {
-      "type": "event",
-      "uuid": "2b5ced3b-af54-4681-a939-1ec06887d6f4",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": "Parham, Jason. “Ai-Generated Anti-Ice Videos Are Getting the Fanfic Treatment.” Wired, Conde Nast, 29 Jan. 2026, www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/. "
-        }
-      ]
-    },
-    {
-      "type": "event",
-      "uuid": "2b5ced3b-af54-4681-a939-1ec06887d6f4",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": "Wayne, Mike, director. ICE Chased by Drag Queens. https://www.facebook.com/share/r/16nQJXUFRy/. Accessed 27 Feb. 2026. "
-        }
-      ]
-    },
-    {
-      "type": "event",
-      "uuid": "2b5ced3b-af54-4681-a939-1ec06887d6f4",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": "“We’re Coming out against the Ice Secure Communities Program.” One Colorado, 22 Nov. 2015, www.one-colorado.org/latest/were-coming-out-against-the-ice-secure-communities-program. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -77,8 +19,8 @@
   "created_by": "nacl-gb3",
   "title": "ICE chased by 'drag queens'",
   "slug": "ice-chased-by-drag-queens-2",
-  "updated_at": "2026-02-28T04:54:08.253Z",
-  "updated_by": "am232672-design",
+  "updated_at": "2026-03-01T22:03:22.965Z",
+  "updated_by": "nacl-gb3",
   "autogenerate": {
     "enabled": false,
     "type": "event",
