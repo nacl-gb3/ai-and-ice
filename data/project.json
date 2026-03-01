@@ -1,1 +1,133 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"nacl-gb3","avatar_url":"https://avatars.githubusercontent.com/u/67475811?v=4","admin":true},{"login_name":"zinniaistired","avatar_url":"https://avatars.githubusercontent.com/u/170900048?v=4","admin":false,"not_accepted":true},{"login_name":"am232672-design","avatar_url":"https://avatars.githubusercontent.com/u/260947091?v=4","admin":false,"not_accepted":true}],"project":{"github_org":"nacl-gb3","is_private":false,"title":"Synthetic Rhetorics: AI and ICE","description":"There have been vast amounts of synthetic media circulating about ICE-related events. This is an important and sensitive topic that impacts many communities. An individual by the name of Mike Wayne posted all of these videos and we decided to analyze four of them. We can learn that this account is dedicated solely to AI-generated content, mainly revolving around ICE and MAGA (often switching political sides).The main motivation behind posting these videos is a combination of different factors, mainly economic and political. Posting videos on social media that end up going viral leads to profit, which is a leading motivator behind the creator’s intent. Additionally, the creator wants to spark political turmoil through social media by posting polarizing videos. ","language":"en","slug":"ai-and-ice","creator":"nacl-gb3","authors":"Gary Bond, Zinnia Perez, Hana Isa, Alana Moczygemba","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Rhetorical Appeals","color":"#ADFFD9"},{"category":"Rhetorical Triangle","color":"#ADFEFF"},{"category":"Expanded Rhetorical Triangle","color":"#99E6FF"},{"category":"Other Rhetorical Elements","color":"#88C9F2"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"tag":"Ethos","category":"Rhetorical Appeals"},{"tag":"Pathos","category":"Rhetorical Appeals"},{"tag":"Logos","category":"Rhetorical Appeals"},{"tag":"Audience","category":"Rhetorical Triangle"},{"tag":"Message","category":"Rhetorical Triangle"},{"tag":"Exigence","category":"Expanded Rhetorical Triangle"},{"tag":"Purpose","category":"Expanded Rhetorical Triangle"},{"tag":"Tone","category":"Other Rhetorical Elements"},{"category":"Expanded Rhetorical Triangle","tag":"Context"},{"category":"Rhetorical Triangle","tag":"Communicator"},{"category":"Other Rhetorical Elements","tag":"Stakeholder"}]},"created_at":"2026-02-11T15:55:27.585Z","updated_at":"2026-02-28T04:54:08.421Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"65912b34-754b-4fd9-bfec-e1a01c06a6ce":{"content":[],"created_at":"2026-02-11T15:55:27.607Z","created_by":"nacl-gb3","title":"Synthetic Rhetorics: AI and ICE","updated_at":"2026-02-11T15:55:27.607Z","updated_by":"nacl-gb3","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["65912b34-754b-4fd9-bfec-e1a01c06a6ce"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "nacl-gb3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67475811?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "zinniaistired",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170900048?v=4",
+      "admin": false,
+      "not_accepted": true
+    },
+    {
+      "login_name": "am232672-design",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260947091?v=4",
+      "admin": false,
+      "not_accepted": true
+    }
+  ],
+  "project": {
+    "github_org": "nacl-gb3",
+    "is_private": false,
+    "title": "Synthetic Rhetorics: AI and ICE",
+    "description": "There have been vast amounts of synthetic media circulating about ICE-related events. This is an important and sensitive topic that impacts many communities. An individual by the name of Mike Wayne posted all of these videos and we decided to analyze four of them. We can learn that this account is dedicated solely to AI-generated content, mainly revolving around ICE and MAGA (often switching political sides).The main motivation behind posting these videos is a combination of different factors, mainly economic and political. Posting videos on social media that end up going viral leads to profit, which is a leading motivator behind the creator’s intent. Additionally, the creator wants to spark political turmoil through social media by posting polarizing videos. ",
+    "language": "en",
+    "slug": "ai-and-ice",
+    "creator": "nacl-gb3",
+    "authors": "Gary Bond, Zinnia Perez, Hana Isa, Alana Moczygemba",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Rhetorical Appeals",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Other Rhetorical Elements",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Tone",
+          "category": "Other Rhetorical Elements"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "tag": "Context"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "tag": "Communicator"
+        },
+        {
+          "category": "Other Rhetorical Elements",
+          "tag": "Stakeholder"
+        }
+      ]
+    },
+    "created_at": "2026-02-11T15:55:27.585Z",
+    "updated_at": "2026-03-01T20:24:59.842Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "65912b34-754b-4fd9-bfec-e1a01c06a6ce": {
+      "content": [],
+      "created_at": "2026-02-11T15:55:27.607Z",
+      "created_by": "nacl-gb3",
+      "title": "Synthetic Rhetorics: AI and ICE",
+      "updated_at": "2026-02-11T15:55:27.607Z",
+      "updated_by": "nacl-gb3",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "65912b34-754b-4fd9-bfec-e1a01c06a6ce"
+  ]
+}

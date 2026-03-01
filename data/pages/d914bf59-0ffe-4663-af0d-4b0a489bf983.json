@@ -41,7 +41,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Ng, Tony. “AI “ICE Agents” Spook San Jose Block before Locals Call out Hoax.” Hoodline, 22 Jan. 2026, hoodline.com/2026/01/ai-ice-agents-spook-san-jose-block-before-locals-call-out-hoax/. Accessed 27 Feb. 2026."
+              "text": "Ng, Tony. “AI “ICE Agents” Spook San Jose Block before Locals Call out Hoax.” Hoodline, 22 Jan. 2026, hoodline.com/2026/01/ai-ice-agents-spook-san-jose-block-before-locals-call-out-hoax/. "
             }
           ]
         },
@@ -62,21 +62,6 @@
             },
             {
               "text": "."
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "“Video.” "
-            },
-            {
-              "text": "Facebook.com",
-              "italic": true
-            },
-            {
-              "text": ", 2026, www.facebook.com/mikewaynedotcom/videos/principal-fights-agents-ice-in-front-of-school/899763405863499/. Accessed 27 Feb. 2026"
             }
           ]
         },
@@ -108,6 +93,36 @@
           "type": "list-item",
           "children": [
             {
+              "text": "Wayne, Mike. “Principal Fights Agents Ice in Front of School: Mike Wayne.” "
+            },
+            {
+              "text": "Facebook",
+              "italic": true
+            },
+            {
+              "text": ", www.facebook.com/reel/899763405863499."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Wayne, Mike. “Ice Kicked out of Spanish Restaurant: Mike Wayne.” "
+            },
+            {
+              "text": "Facebook",
+              "italic": true
+            },
+            {
+              "text": ", www.facebook.com/reel/1540608123683734."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
               "text": "Wayne, Mike. “Old Lady Resists Ice: Mike Wayne.” "
             },
             {
@@ -115,7 +130,22 @@
               "italic": true
             },
             {
-              "text": ", https://www.facebook.com/reel/3097825947063484/. Accessed 28 Feb. 2026. "
+              "text": ", https://www.facebook.com/reel/3097825947063484/. "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Wayne, Mike. “Ice Chased by Drag Queens: Mike Wayne.” "
+            },
+            {
+              "text": "Facebook",
+              "italic": true
+            },
+            {
+              "text": ", www.facebook.com/reel/2102663203887862."
             }
           ]
         }
@@ -130,6 +160,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-27T22:23:05.023Z",
   "created_by": "Hana-Isa",
-  "updated_at": "2026-02-28T04:35:47.268Z",
+  "updated_at": "2026-03-01T20:24:59.579Z",
   "updated_by": "nacl-gb3"
 }
